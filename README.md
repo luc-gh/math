@@ -6,7 +6,7 @@ Conceitos de matemática descritos através da programação, com resolução de
 
 > ```n ∈ ℙ ⇔ n ∈ ℕ ∧ ∀ a < n ∧ a ≠ 1, a ∤ n```
 >
-> **Desc:** *o número n pertence ao conjunto dos números primos se, e somente se, n for natural e para todo valor a menor que n e diferente de 1, a não divide n).*
+> **Desc:** *o número n pertence ao conjunto dos números primos se, e somente se, n for natural e para todo valor a menor que n e diferente de 1, a não divide n.*
 
 O primeiro código demonstra um programa que detecta se um valor é primo ou não;
 
