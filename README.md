@@ -10,12 +10,17 @@ Conceitos de matemática descritos através da programação, com resolução de
 
 O primeiro código demonstra um programa que detecta se um valor é primo ou não;
 
-O segundo código tem um programa que retorna os números primos dentro de um intervalo;
+O segundo código tem um programa que retorna os números primos dentro de um intervalo:
 > Códigos: 
 > - [main-primos.c](main-primos.c) - C
 > - [primesInterval.dart](primesInterval.dart) - Dart
 
 ---
 
-**Fatorial**: produto de um valor n por todos os seus antecessores até um, ou seja: ```n! = n × (n-1) × ... × 2 × 1```.
+**Fatorial**: produto de um valor n por todos os seus antecessores até um, ou seja: 
+> ```n! = n × (n-1) × ... × 2 × 1```.
+> 
+> **Desc:** *n fatorial é igual a **n** multiplicado por todos os antecessores de n até 1.*
+
+O código seguinte é um programa que pede um valor numérico natural e imprime seu fatorial:
 > Código: [fatorial.py](fatorial.py) - Python
