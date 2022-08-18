@@ -17,10 +17,18 @@ O segundo código tem um programa que retorna os números primos dentro de um in
 
 ---
 
+**Termial**: n termial é igual soma de todos os valores naturais entre 1 e n.
+> ```n? = 1 + 2 + ... + (n-1) + n```
+> 
+> **Desc:** *n termial é igual a soma dos valores entre o númrto 1 e o número n.*
+
+---
+
 **Fatorial**: produto de um valor n por todos os seus antecessores até um, ou seja: 
-> ```n! = n × (n-1) × ... × 2 × 1```.
+> ```n! = n × (n-1) × ... × 2 × 1```
 > 
 > **Desc:** *n fatorial é igual a **n** multiplicado por todos os antecessores de n até 1.*
 
 O código seguinte é um programa que pede um valor numérico natural e imprime seu fatorial:
 > Código: [fatorial.py](fatorial.py) - Python
+
